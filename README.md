@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Welcome to JAX London Demo Repository, Enjoy
 # Contributed - SAH
 ## This repo contains basic Maven project with Hello-World war file
+=======
+# Hello and welcome to JAX London Demo Repository
+# Contributed - SAH
+## This repo contains basic Maven project with Hello-World war file 
+>>>>>>> f310b797b7777853579fc4f2c9d30be1fef53ca8
 In order to make it work, please do the following: 
 
 <ul>
